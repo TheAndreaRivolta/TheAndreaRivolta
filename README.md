@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheAndreaRivolta
+- 👋 Hi, I’m Andrea Rivolta
 - 👀 I’m interested in Nature, Innovation, Coding, Illustration and Calligraphy
 - 🌱 I’m currently learning HTML and CSS to make some good projects
 - 💞️ If you want to chat with me, I'm on Discord - @theandrearivolta
